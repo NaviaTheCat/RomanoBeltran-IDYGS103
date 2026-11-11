@@ -11,7 +11,7 @@ class Personaje
 
 const Personaje = new Personaje({
     Nombre: "NaviVani",
-    Vida: -500,
+    Vida: 500,
     Ataque: 120,
     Defensa: 60,
     Nivel: 100
